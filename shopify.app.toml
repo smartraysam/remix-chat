@@ -2,7 +2,7 @@
 
 name = "remix-chat"
 client_id = "a4765dd536351f4203f83c7dea06f809"
-application_url = "https://comp-bobby-improvements-womens.trycloudflare.com"
+application_url = "https://cities-minute-routers-officially.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://comp-bobby-improvements-womens.trycloudflare.com/auth/callback",
-  "https://comp-bobby-improvements-womens.trycloudflare.com/auth/shopify/callback",
-  "https://comp-bobby-improvements-womens.trycloudflare.com/api/auth/callback"
+  "https://cities-minute-routers-officially.trycloudflare.com/auth/callback",
+  "https://cities-minute-routers-officially.trycloudflare.com/auth/shopify/callback",
+  "https://cities-minute-routers-officially.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]

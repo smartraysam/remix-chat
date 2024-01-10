@@ -85,7 +85,7 @@ export default function Index() {
 
   return (
     <Page>
-      <ui-title-bar title="Remix app template">
+      <ui-title-bar title="Dashboard">
         <button variant="primary" onClick={generateProduct}>
           Generate a product
         </button>
@@ -97,7 +97,7 @@ export default function Index() {
               <BlockStack gap="500">
                 <BlockStack gap="200">
                   <Text as="h2" variant="headingMd">
-                    Congrats on creating a new Shopify app 🎉
+                    Welcome to Lewk Style Assistant 🎉
                   </Text>
                   <Text variant="bodyMd" as="p">
                     This embedded app template uses{" "}
